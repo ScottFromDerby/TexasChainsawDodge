@@ -8,7 +8,9 @@ A game written in C for the [WASM-4](https://wasm4.org) fantasy console.
 
 # generate asset code
 "w4.exe" png2src --c Player.png
+
 "w4.exe" png2src --c Chainsaw.png
+
 "w4.exe" png2src --c FONT_6px.png
 
 # package
